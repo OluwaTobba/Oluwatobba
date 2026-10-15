@@ -96,12 +96,6 @@
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oluwatobba/oluwatobba/output/snake.svg" alt="Snake animation showing GitHub contributions" />
-</div>
-
 <div align="center">
   <i>Building today. Engineering tomorrow. 🚀</i>
 </div>
